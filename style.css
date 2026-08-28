@@ -1,0 +1,37 @@
+body{
+    
+    padding: 0;
+    border: 2px solid black;
+    max-width: 80%;
+    margin: 5% auto;
+}
+
+p{
+    border: 2px solid rgb(216, 20, 20);
+    padding: 10px 20px 30px;
+
+}
+
+
+#cabeçalho{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+main{
+    background-color: #f0f0f0;
+    margin: 5% 0;
+}
+
+
+#banner{
+    background-color: #e0d9fb;
+    margin: 5% 0;
+}
+
+
+footer{
+    display: flex;
+    justify-content: center;
+}
