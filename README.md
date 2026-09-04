@@ -3,5 +3,4 @@
     <h1> Tecnologias empregadas </h1>
     - HTML
     - CSS
-  l
     
