@@ -7,4 +7,6 @@
     <h1> Tecnologias empregadas </h1>
     - HTML
     - CSS
+<h3> Site do projeto </h3>
+<p> https://unes-universidade-sand.vercel.app/ </p>
     
