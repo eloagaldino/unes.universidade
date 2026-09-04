@@ -1,5 +1,5 @@
 <p align="center">
-      <img width="160" height="79" alt="image" src=""C:\Users\Fatec\Downloads\logo.png"" />
+      <img width="160" height="79" alt="image" src="(https://github.com/eloagaldino/unes.universidade/blob/main/logo.png)" />
       <h2 align="center"> Universidade UNES </h2>
 <p align="center">
  <h1> Descrição do projeto </h1>
